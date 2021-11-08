@@ -1,14 +1,14 @@
 <!-- Logo -->
 <p align="center">
   <a href="https://github.com/sanjaysunil/betterdiscordpanel">
-    <img src="./assets/images/betterdiscordpanel.png" alt="Logo" width="100" height="100">
+    <img src="./assets/images/Botcord.png" alt="Logo" width="100" height="100">
   </a>
 </p>
 
 <!-- Title -->
-<h1 align="center">BetterDiscordPanel</h1>
+<h1 align="center">Botcord</h1>
   <p align="center">
-    Discord Messaging Panel that allows you to message inside of a bot!
+    A cool thing like discord but loggging in to bot accounts
     <br />
     <br />
     <a href="https://github.com/SanjaySunil/BetterDiscordPanel/issues/new?assignees=&labels=Bug&template=bug_report.md&title=%5BBUG%5D">Report Bug</a>
