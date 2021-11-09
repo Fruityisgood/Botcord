@@ -1,9 +1,3 @@
-/**
- * @file app.js
- * @author Sanjay Sunil
- * @license GPL-3.0
- */
-
 !(function(a) {
   'use strict';
   a('.dropdown-menu a.dropdown-toggle').on('click', function(t) {
