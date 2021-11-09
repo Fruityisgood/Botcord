@@ -1,9 +1,3 @@
-/**
- * @file log.js
- * @author Sanjay Sunil
- * @license GPL-3.0
- */
-
 function successNotification(message) {
   new Noty({
     type: 'success',
