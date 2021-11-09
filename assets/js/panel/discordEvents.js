@@ -1,7 +1,6 @@
 /**
  * @file discordEvents.js
- * @author Sanjay Sunil
- * @license GPL-3.0
+ * @author Fruity
  */
 
 client.on('message', (message) => {
