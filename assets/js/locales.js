@@ -1,9 +1,3 @@
-/**
- * @file locales.js
- * @author Sanjay Sunil
- * @license GPL-3.0
- */
-
 const locales = {
   en: {
     'langCode': 'en',
