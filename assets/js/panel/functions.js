@@ -1,9 +1,3 @@
-/**
- * @file functions.js
- * @author Sanjay Sunil
- * @license GPL-3.0
- */
-
 function createMessage(message) {
   const userTag = escapeHtml(message.author.tag);
   const userId = message.author.id;
