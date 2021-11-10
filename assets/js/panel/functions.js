@@ -227,7 +227,7 @@ function updateChannel() {
     );
 
     channelName.html(`#${escapeHtml(user.username)}`);
-    document.title = `#${escapeHtml(user.username)} - BetterDiscordPanel`;
+    document.title = `#${escapeHtml(user.username)} - Botcord`;
 
     if (channel !== null) {
       channel.messages.fetch().then((messages) => {
@@ -246,7 +246,7 @@ function updateChannel() {
     }
 
     channelName.html(`#${escapeHtml(channel.name)}`);
-    document.title = `#${escapeHtml(channel.name)} - BetterDiscordPanel`;
+    document.title = `#${escapeHtml(channel.name)} - Botcord`;
 
     channel.messages.fetch().then((messages) => {
       Array.from(messages)
