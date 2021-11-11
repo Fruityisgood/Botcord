@@ -32,7 +32,7 @@
 
 <!-- Information -->
 
-## What's BetterDiscordPanel?
+## What's Botcord?
 
 <a href="https://github.com/betterdiscordpanel" target="_blank">BetterDiscordPanel</a> is a new panel that allows you to message, manage and gain statistics inside of your discord bot.
 <br/>
